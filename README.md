@@ -7,7 +7,7 @@ JavaScript:
 Java (Maven):
 
 ```<dependency>
-<groupId>neuro</groupId>
+  <groupId>neuro</groupId>
   <artifactId>sdk</artifactId>
   <version>1.0.0</version>
 </dependency>```
